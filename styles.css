@@ -1,3 +1,11 @@
+body {
+    background: linear-gradient(135deg, #e0f2f1, #ffffff);
+    background-attachment: fixed;
+    font-family: 'Inter', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
 :root {
   --teal: #009688;
   --light-bg: #f8f9fa;
@@ -554,3 +562,4 @@ footer {
     gap: 0.5rem;
   }
 }
+
