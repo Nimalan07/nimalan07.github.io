@@ -46,8 +46,11 @@ It is structured to help:
 | **GitHub Pages** | Hosting          |
 
 # Folder Structure
-├─ Portfolio
-├── index.html
-├── styles.css
-├── script.js
-└── resume.pdf
+
+| File / Folder | 
+|--------------|
+| `index.html` |
+| `styles.css` | 
+| `script.js`  | 
+| `resume.pdf` | 
+
